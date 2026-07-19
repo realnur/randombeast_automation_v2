@@ -1,0 +1,12 @@
+2026-07-19 17:30:15.588 | SUCCESS  | __main__:main:38 - [sessions/Иошкин2] Успешно запустился браузер для сессии
+2026-07-19 17:30:16.289 | CRITICAL | imports.get_disposable_url_with_telethon:connect_and_auth:18 - [sessions/Иошкин2] Сессия невалидна или аккаунт разлогинен.
+2026-07-19 17:30:16.452 | DEBUG    | imports.get_disposable_url_with_telethon:disconnect:33 - [sessions/Иошкин2] уже был(а) отсоединин(а)
+2026-07-19 17:30:17.741 | SUCCESS  | __main__:main:38 - [sessions/Валёк] Успешно запустился браузер для сессии
+2026-07-19 17:30:20.468 | CRITICAL | imports.get_disposable_url_with_telethon:connect_and_auth:18 - [sessions/Валёк] Сессия невалидна или аккаунт разлогинен.
+2026-07-19 17:30:26.329 | DEBUG    | imports.get_disposable_url_with_telethon:disconnect:33 - [sessions/Валёк] уже был(а) отсоединин(а)
+2026-07-19 17:30:27.384 | SUCCESS  | __main__:main:38 - [sessions/+1] Успешно запустился браузер для сессии
+2026-07-19 17:30:29.149 | CRITICAL | imports.get_disposable_url_with_telethon:connect_and_auth:18 - [sessions/+1] Сессия невалидна или аккаунт разлогинен.
+2026-07-19 17:30:29.334 | DEBUG    | imports.get_disposable_url_with_telethon:disconnect:33 - [sessions/+1] уже был(а) отсоединин(а)
+2026-07-19 17:30:30.258 | SUCCESS  | __main__:main:38 - [sessions/ТРай] Успешно запустился браузер для сессии
+2026-07-19 17:30:31.810 | CRITICAL | imports.get_disposable_url_with_telethon:connect_and_auth:18 - [sessions/ТРай] Сессия невалидна или аккаунт разлогинен.
+2026-07-19 17:30:31.917 | DEBUG    | imports.get_disposable_url_with_telethon:disconnect:33 - [sessions/ТРай] уже был(а) отсоединин(а)
